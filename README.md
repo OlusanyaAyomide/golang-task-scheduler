@@ -90,3 +90,6 @@ Contributions are welcome! Feel free to submit issues and pull requests.
 
 ---
 Made with ❤️ in Go.
+
+## Live site
+You can interact with the base url https://scheduler-small-grass-8417.fly.dev/
